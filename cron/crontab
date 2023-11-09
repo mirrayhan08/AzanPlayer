@@ -1,0 +1,5 @@
+20 4 * * * mpg321 /home/mehedi/azan/Abdul-Basit.mp3 > /dev/null 2>&1 # fajr
+26 12 * * * mpg321 /home/mehedi/azan/Abdul-Basit.mp3 > /dev/null 2>&1 # dhuhr
+43 16 * * * mpg321 /home/mehedi/azan/Abdul-Basit.mp3 > /dev/null 2>&1 # asr
+2 19 * * * mpg321 /home/mehedi/azan/Abdul-Basit.mp3 > /dev/null 2>&1 # maghrib
+7 20 * * * mpg321 /home/mehedi/azan/Abdul-Basit.mp3 > /dev/null 2>&1 # isha
